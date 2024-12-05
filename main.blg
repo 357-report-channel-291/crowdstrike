@@ -1,55 +1,53 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
-Reallocating 'name_of_file' (item size: 1) to 5 items.
 Database file #1: refs.bib
 Warning--I'm ignoring volenik_crowdstrike_ceo_2024's extra "note" field
---line 77 of file refs.bib
+--line 39 of file refs.bib
 Warning--I'm ignoring sato_crowdstrike_ceo_2024's extra "note" field
---line 101 of file refs.bib
+--line 51 of file refs.bib
 Warning--I'm ignoring crowdstrike_channel_file_291_2024's extra "note" field
---line 125 of file refs.bib
-You've used 26 entries,
+--line 63 of file refs.bib
+You've used 30 entries,
             2118 wiz_defined-function locations,
-            604 strings with 8191 characters,
-and the built_in function-call counts, 5697 in all, are:
-= -- 561
-> -- 198
+            621 strings with 8876 characters,
+and the built_in function-call counts, 6551 in all, are:
+= -- 645
+> -- 226
 < -- 0
-+ -- 84
-- -- 58
-* -- 198
-:= -- 993
-add.period$ -- 101
-call.type$ -- 26
-change.case$ -- 107
++ -- 97
+- -- 66
+* -- 218
+:= -- 1137
+add.period$ -- 117
+call.type$ -- 30
+change.case$ -- 123
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 197
-empty$ -- 548
-format.name$ -- 58
-if$ -- 1223
+cite$ -- 30
+duplicate$ -- 225
+empty$ -- 636
+format.name$ -- 66
+if$ -- 1411
 int.to.chr$ -- 0
-int.to.str$ -- 26
+int.to.str$ -- 30
 missing$ -- 5
-newline$ -- 156
-num.names$ -- 52
-pop$ -- 211
+newline$ -- 180
+num.names$ -- 60
+pop$ -- 251
 preamble$ -- 1
-purify$ -- 81
+purify$ -- 93
 quote$ -- 0
-skip$ -- 150
+skip$ -- 170
 stack$ -- 0
-substring$ -- 130
-swap$ -- 26
+substring$ -- 151
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 104
+type$ -- 120
 warning$ -- 0
-while$ -- 52
-width$ -- 28
-write$ -- 297
+while$ -- 60
+width$ -- 32
+write$ -- 341
 (There were 3 warnings)
