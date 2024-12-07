@@ -1,53 +1,61 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
 Database file #1: refs.bib
 Warning--I'm ignoring volenik_crowdstrike_ceo_2024's extra "note" field
---line 39 of file refs.bib
+--line 77 of file refs.bib
 Warning--I'm ignoring sato_crowdstrike_ceo_2024's extra "note" field
---line 51 of file refs.bib
+--line 101 of file refs.bib
 Warning--I'm ignoring crowdstrike_channel_file_291_2024's extra "note" field
---line 63 of file refs.bib
-You've used 29 entries,
+--line 125 of file refs.bib
+Warning--entry type for "utility_dive_crowdstrike" isn't style-file defined
+--line 555 of file refs.bib
+Warning--entry type for "homeland_committee_crowdstrike" isn't style-file defined
+--line 571 of file refs.bib
+Warning--entry type for "sc_media_crowdstrike_outage" isn't style-file defined
+--line 587 of file refs.bib
+You've used 32 entries,
             2118 wiz_defined-function locations,
-            617 strings with 8677 characters,
-and the built_in function-call counts, 6338 in all, are:
-= -- 624
-> -- 219
+            627 strings with 9146 characters,
+and the built_in function-call counts, 6956 in all, are:
+= -- 681
+> -- 240
 < -- 0
-+ -- 94
-- -- 64
-* -- 213
-:= -- 1101
-add.period$ -- 113
-call.type$ -- 29
-change.case$ -- 119
++ -- 103
+- -- 70
+* -- 231
+:= -- 1203
+add.period$ -- 122
+call.type$ -- 32
+change.case$ -- 131
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 218
-empty$ -- 614
-format.name$ -- 64
-if$ -- 1364
+cite$ -- 32
+duplicate$ -- 239
+empty$ -- 680
+format.name$ -- 70
+if$ -- 1499
 int.to.chr$ -- 0
-int.to.str$ -- 29
+int.to.str$ -- 32
 missing$ -- 5
-newline$ -- 174
-num.names$ -- 58
-pop$ -- 241
+newline$ -- 189
+num.names$ -- 64
+pop$ -- 268
 preamble$ -- 1
-purify$ -- 90
+purify$ -- 99
 quote$ -- 0
-skip$ -- 165
+skip$ -- 186
 stack$ -- 0
-substring$ -- 146
-swap$ -- 29
+substring$ -- 161
+swap$ -- 32
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 116
+type$ -- 128
 warning$ -- 0
-while$ -- 58
-width$ -- 31
-write$ -- 330
-(There were 3 warnings)
+while$ -- 64
+width$ -- 34
+write$ -- 360
+(There were 6 warnings)
