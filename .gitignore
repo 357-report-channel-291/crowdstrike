@@ -12,4 +12,15 @@
 *.synctex.gz
 *.nav
 *.snm
+<<<<<<< HEAD
 *.vrb
+=======
+*.vrb
+main.aux
+main.aux
+main.aux
+main.aux
+main.fdb_latexmk
+main.toc
+main.xdv
+>>>>>>> d0aceef (update)
