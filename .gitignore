@@ -13,8 +13,11 @@
 *.nav
 *.snm
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.vrb
 =======
+=======
+>>>>>>> d0aceef4589aabcafad3d75a14f019f39e9df341
 *.vrb
 main.aux
 main.aux
@@ -23,4 +26,7 @@ main.aux
 main.fdb_latexmk
 main.toc
 main.xdv
+<<<<<<< HEAD
 >>>>>>> d0aceef (update)
+=======
+>>>>>>> d0aceef4589aabcafad3d75a14f019f39e9df341
