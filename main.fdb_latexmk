@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1733536791.60582 "main.aux" "main.bbl" "main" 1733536794.67282 0
-  "./refs.bib" 1733529999.8913 10580 6d811103336a2d074a7c85a086e19511 ""
+["bibtex main"] 1733540207.57893 "main.aux" "main.bbl" "main" 1733540212.08005 0
+  "./refs.bib" 1733433779.23067 10580 6d811103336a2d074a7c85a086e19511 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1733536794.12062 5700 c412cbfc3f929152a04c26a99e287be6 "pdflatex"
+  "main.aux" 1733540211.79858 5818 5ea3d40f56f86f294309308fbb8343ab "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1733536791.77855 "/Users/ivank/School/Fall 2024/CS 357/crowdstrike-report-og/main.tex" "main.pdf" "main" 1733536794.67301 0
-  "/Users/ivank/School/Fall 2024/CS 357/crowdstrike-report-og/main.tex" 1733536576.42629 790 dd6d542585ba7752bb5e43cd40d41fa1 ""
+["pdflatex"] 1733540210.48043 "/Users/chrismin/crowdstrike/main.tex" "main.pdf" "main" 1733540212.08022 0
+  "/Users/chrismin/crowdstrike/main.tex" 1733540126.74102 790 dd6d542585ba7752bb5e43cd40d41fa1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcbx0700.tfm" 1136768653 1536 50f9b6c0f7870bc0862614b77b8f0f5a ""
@@ -212,20 +212,20 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/zref/zref-abspage.sty" 1694723124 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/zref/zref-base.sty" 1694723124 20785 f7d1133a287929598a897c93f8f4c44b ""
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
-  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1711073999.96923 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
-  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711073989 8221435 bfd643c68412f8208504d85087bc1467 ""
+  "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1733428599.23574 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733428572 8221420 0c0088a6f3313e94789b874c046bdac2 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Configs/boxes.tex" 1733529999.87919 7635 659b37d1df9c1ca94071d213e3ba389d ""
-  "Configs/configs.tex" 1733529999.87935 5525 76fc49511f99a84bd545712be58304ba ""
-  "Sections/crowd/crowd.tex" 1733536788.53962 25426 4b5fd74bbab1fef1ad0dc0ccc19f061b ""
-  "Sections/crowd/fig1.png" 1733536571.78676 256936 cb5e34c1e4d92fa6be7d27b851625543 ""
-  "Sections/crowd/graph.png" 1733529999.88109 164550 f2c0cfa9ae7fb94077f7a0720062dc82 ""
-  "Sections/crowd/rrc.png" 1733529999.88282 266747 3583a766b896cd77dbce664afdddf348 ""
-  "main.aux" 1733536794.12062 5700 c412cbfc3f929152a04c26a99e287be6 "pdflatex"
-  "main.bbl" 1733536791.7742 6898 d88959e968d16b453d38e1bfe253fd8c "bibtex main"
-  "main.out" 1733536794.12202 2569 91fcaef0af1a43e93e68d91ba6fff537 "pdflatex"
-  "main.tex" 1733536576.42629 790 dd6d542585ba7752bb5e43cd40d41fa1 ""
-  "main.toc" 1733536794.12234 1108 5827df75a9369a8c3c9abb2df4ae6835 "pdflatex"
+  "Configs/boxes.tex" 1733423540.36358 7635 659b37d1df9c1ca94071d213e3ba389d ""
+  "Configs/configs.tex" 1733423540.36368 5525 76fc49511f99a84bd545712be58304ba ""
+  "Sections/crowd/crowd.tex" 1733540210.37255 25658 74a45dc676ea95a041efdfdc92804b02 ""
+  "Sections/crowd/fig1.png" 1733540126.7303 256936 cb5e34c1e4d92fa6be7d27b851625543 ""
+  "Sections/crowd/graph.png" 1733423540.36437 164550 f2c0cfa9ae7fb94077f7a0720062dc82 ""
+  "Sections/crowd/rrc.png" 1733423540.36514 266747 3583a766b896cd77dbce664afdddf348 ""
+  "main.aux" 1733540211.79858 5818 5ea3d40f56f86f294309308fbb8343ab "pdflatex"
+  "main.bbl" 1733540207.6856 6898 d88959e968d16b453d38e1bfe253fd8c "bibtex main"
+  "main.out" 1733540211.79949 2701 5ff0c242d7c0194cb04f6425de4d2189 "pdflatex"
+  "main.tex" 1733540126.74102 790 dd6d542585ba7752bb5e43cd40d41fa1 ""
+  "main.toc" 1733540211.79971 1185 574b899e65b70c7e48112f9090412709 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
