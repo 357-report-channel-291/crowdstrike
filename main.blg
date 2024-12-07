@@ -9,45 +9,45 @@ Warning--I'm ignoring sato_crowdstrike_ceo_2024's extra "note" field
 --line 51 of file refs.bib
 Warning--I'm ignoring crowdstrike_channel_file_291_2024's extra "note" field
 --line 63 of file refs.bib
-You've used 30 entries,
+You've used 29 entries,
             2118 wiz_defined-function locations,
-            621 strings with 8876 characters,
-and the built_in function-call counts, 6551 in all, are:
-= -- 645
-> -- 226
+            617 strings with 8677 characters,
+and the built_in function-call counts, 6338 in all, are:
+= -- 624
+> -- 219
 < -- 0
-+ -- 97
-- -- 66
-* -- 218
-:= -- 1137
-add.period$ -- 117
-call.type$ -- 30
-change.case$ -- 123
++ -- 94
+- -- 64
+* -- 213
+:= -- 1101
+add.period$ -- 113
+call.type$ -- 29
+change.case$ -- 119
 chr.to.int$ -- 0
-cite$ -- 30
-duplicate$ -- 225
-empty$ -- 636
-format.name$ -- 66
-if$ -- 1411
+cite$ -- 29
+duplicate$ -- 218
+empty$ -- 614
+format.name$ -- 64
+if$ -- 1364
 int.to.chr$ -- 0
-int.to.str$ -- 30
+int.to.str$ -- 29
 missing$ -- 5
-newline$ -- 180
-num.names$ -- 60
-pop$ -- 251
+newline$ -- 174
+num.names$ -- 58
+pop$ -- 241
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 90
 quote$ -- 0
-skip$ -- 170
+skip$ -- 165
 stack$ -- 0
-substring$ -- 151
-swap$ -- 30
+substring$ -- 146
+swap$ -- 29
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 120
+type$ -- 116
 warning$ -- 0
-while$ -- 60
-width$ -- 32
-write$ -- 341
+while$ -- 58
+width$ -- 31
+write$ -- 330
 (There were 3 warnings)

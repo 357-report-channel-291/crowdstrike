@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.21)  6 DEC 2024 20:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.21)  6 DEC 2024 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1170,109 +1170,16 @@ Package pdftex.def Info: Sections/crowd/rrc.png  used on input line 137.
 (pdftex.def)             Requested size: 279.50037pt x 220.40398pt.
  [6 <./Sections/crowd/graph.png> <./Sections/crowd/rrc.png>]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 153.
- [7]
-Overfull \hbox (19.99995pt too wide) in paragraph at lines 205--206
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[8]
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 240.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 240.
-
-Overfull \hbox (38.00014pt too wide) in paragraph at lines 251--253
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
+<Sections/crowd/fig1.png, id=176, 1692.3225pt x 990.70125pt>
+File: Sections/crowd/fig1.png Graphic file (type png)
+<use Sections/crowd/fig1.png>
+Package pdftex.def Info: Sections/crowd/fig1.png  used on input line 177.
+(pdftex.def)             Requested size: 430.00462pt x 251.72603pt.
 
 
-Overfull \hbox (74.0005pt too wide) in paragraph at lines 255--257
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Overfull \hbox (7.99983pt too wide) in paragraph at lines 258--259
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (7.99983pt too wide) in paragraph at lines 268--270
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (1.99977pt too wide) in paragraph at lines 271--272
-[][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (7.99983pt too wide) in paragraph at lines 278--279
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (56.00032pt too wide) in paragraph at lines 281--282
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Underfull \vbox (badness 1005) has occurred while \output is active []
-
- [9]
-Overfull \hbox (26.00002pt too wide) in paragraph at lines 289--290
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (26.00002pt too wide) in paragraph at lines 296--298
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (44.0002pt too wide) in paragraph at lines 311--312
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[10]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 329.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 329.
-
-Overfull \hbox (19.99995pt too wide) in paragraph at lines 329--331
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (19.99995pt too wide) in paragraph at lines 338--340
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (68.00044pt too wide) in paragraph at lines 344--345
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[11]
-Overfull \hbox (1.99977pt too wide) in paragraph at lines 372--373
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (13.9999pt too wide) in paragraph at lines 386--387
-[][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (1.99977pt too wide) in paragraph at lines 391--392
-[][][][][][][][][][][][][][][][][] 
- []
-
-[12] [13] [14]) (./main.bbl [15]
+[7] [8 <./Sections/crowd/fig1.png>] [9]) (./main.bbl [10]
 bibitemlist
 
 Underfull \hbox (badness 6592) in paragraph at lines 28--32
@@ -1319,7 +1226,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--90
 \OT1/cmr/m/n/10 snowflake data breach.  [][]$\OT1/cmtt/m/n/10 https : / / www . kovrr . com / blog-[]post /
  []
 
-[16]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 110--114
 []\OT1/cmr/m/n/10 Microsoft.  Kernel-mode code sign-ing re-quire-ments.  [][]$\OT1/cmtt/m/n/10 https :
  []
@@ -1360,36 +1267,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--138
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--162
-[]\OT1/cmr/m/n/10 David Shep-ard-son.  Crowd-strike, delta sue each other
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--162
-\OT1/cmr/m/n/10 over flight dis-rup-tions.  [][]$\OT1/cmtt/m/n/10 https : / / www . reuters . com / legal /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--162
-\OT1/cmtt/m/n/10 crowdstrike-[]delta-[]sue-[]each-[]other-[]over-[]flight-[]disruptions-[]2024-[]10-[]28/$[][]\OT1/cmr/m/n/10 .  Ac-
- []
-
-[17]
-Underfull \hbox (badness 1960) in paragraph at lines 175--179
+Underfull \hbox (badness 1960) in paragraph at lines 169--173
 []\OT1/cmr/m/n/10 David We-ston.  Win-dows se-cu-rity best prac-tices for in-te-grat-ing and man-ag-ing se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
+Underfull \hbox (badness 10000) in paragraph at lines 169--173
 \OT1/cmr/m/n/10 cu-rity tools.  [][]$\OT1/cmtt/m/n/10 https : / / www . microsoft . com / en-[]us / security / blog / 2024 / 07 / 27 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--179
+Underfull \hbox (badness 10000) in paragraph at lines 169--173
 \OT1/cmtt/m/n/10 windows-[]security-[]best-[]practices-[]for-[]integrating-[]and-[]managing-[]security-[]tools/$[][]\OT1/cmr/m/n/10 ,
  []
 
-) [18]
+[12]) [13]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1399,21 +1291,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 14B3ED3F5851B01FD417B60DD307B95D;2569.
+(rerunfilecheck)             Checksum: 91FCAEF0AF1A43E93E68D91BA6FFF537;2569.
  ) 
 Here is how much of TeX's memory you used:
- 31578 strings out of 474116
- 562639 string characters out of 5743682
- 2008187 words of memory out of 5000000
- 53205 multiletter control sequences out of 15000+600000
+ 31368 strings out of 474116
+ 559377 string characters out of 5743682
+ 1946187 words of memory out of 5000000
+ 53175 multiletter control sequences out of 15000+600000
  568121 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,12n,110p,982b,1901s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (18 pages, 599529 bytes).
+ 107i,12n,110p,982b,1025s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (13 pages, 716004 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 243 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 333 PDF objects out of 1000 (max. 8388607)
+ 289 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
