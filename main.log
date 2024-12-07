@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.21)  6 DEC 2024 20:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.5)  6 DEC 2024 21:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/ivank/School/Fall 2024/CS 357/crowdstrike-report-og/main.tex"
-(/Users/ivank/School/Fall 2024/CS 357/crowdstrike-report-og/main.tex
+**/Users/chrismin/crowdstrike/main.tex
+(/Users/chrismin/crowdstrike/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/memoir/memoir.cls
@@ -1158,19 +1158,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./main.toc) [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Sections/crowd/crowd.tex [3{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [4] [5]
-<Sections/crowd/graph.png, id=158, 1093.08376pt x 751.30687pt>
+<Sections/crowd/graph.png, id=163, 1093.08376pt x 751.30687pt>
 File: Sections/crowd/graph.png Graphic file (type png)
 <use Sections/crowd/graph.png>
 Package pdftex.def Info: Sections/crowd/graph.png  used on input line 120.
 (pdftex.def)             Requested size: 150.50424pt x 103.43971pt.
-<Sections/crowd/rrc.png, id=160, 1395.71437pt x 1100.61188pt>
+<Sections/crowd/rrc.png, id=165, 1395.71437pt x 1100.61188pt>
 File: Sections/crowd/rrc.png Graphic file (type png)
 <use Sections/crowd/rrc.png>
 Package pdftex.def Info: Sections/crowd/rrc.png  used on input line 137.
 (pdftex.def)             Requested size: 279.50037pt x 220.40398pt.
  [6 <./Sections/crowd/graph.png> <./Sections/crowd/rrc.png>]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 153.
-<Sections/crowd/fig1.png, id=176, 1692.3225pt x 990.70125pt>
+<Sections/crowd/fig1.png, id=181, 1692.3225pt x 990.70125pt>
 File: Sections/crowd/fig1.png Graphic file (type png)
 <use Sections/crowd/fig1.png>
 Package pdftex.def Info: Sections/crowd/fig1.png  used on input line 177.
@@ -1291,21 +1291,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 91FCAEF0AF1A43E93E68D91BA6FFF537;2569.
+(rerunfilecheck)             Checksum: 5FF0C242D7C0194CB04F6425DE4D2189;2701.
  ) 
 Here is how much of TeX's memory you used:
- 31368 strings out of 474116
- 559377 string characters out of 5743682
+ 31370 strings out of 474116
+ 559308 string characters out of 5743682
  1946187 words of memory out of 5000000
- 53175 multiletter control sequences out of 15000+600000
+ 53176 multiletter control sequences out of 15000+600000
  568121 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,12n,110p,982b,1025s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,12n,110p,949b,1025s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (13 pages, 716004 bytes).
+Output written on main.pdf (13 pages, 716435 bytes).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 339 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 

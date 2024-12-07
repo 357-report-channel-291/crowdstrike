@@ -10,4 +10,5 @@
 \contentsline {section}{\numberline {1.8}Windows Kernel Crash Dump Analysis}{7}{section.1.8}%
 \contentsline {section}{\numberline {1.9}Legal Issues Raised by CrowdStrike Outage}{7}{section.1.9}%
 \contentsline {section}{\numberline {1.10}Ethical Issues Raised by CrowdStrike Outage}{9}{section.1.10}%
+\contentsline {section}{\numberline {1.11}Link to Poster}{10}{section.1.11}%
 \contentsline {chapter}{Bibliography}{11}{chapter*.5}%
