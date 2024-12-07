@@ -1185,17 +1185,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8]
 
-[9]
-
-LaTeX Warning: Citation `utility_dive_crowdstrike' on page 10 undefined on input line 241.
-
-
-LaTeX Warning: Citation `homeland_committee_crowdstrike' on page 10 undefined on input line 241.
-
-
-LaTeX Warning: Citation `sc_media_crowdstrike_outage' on page 10 undefined on input line 241.
-
-) (main.bbl
+[9]) (main.bbl
 
 [10]
 bibitemlist
@@ -1314,13 +1304,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--223
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 91FCAEF0AF1A43E93E68D91BA6FFF537;2569.
  ) 
@@ -1333,4 +1316,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  107i,12n,110p,963b,891s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (13 pages, 322628 bytes).
+Output written on main.xdv (13 pages, 323120 bytes).
